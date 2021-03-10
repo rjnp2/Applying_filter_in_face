@@ -34,6 +34,11 @@ This repository contains python implmentation of various snapchat like face filt
   To run type 
       
       python gui.py in terminal
+      
+- check filters
+  click on button 
+  
+# Thank You
 
 
 
