@@ -1,7 +1,9 @@
 # Applying_filter_in_face
 
 ## Description
-This repository contains python implmentation of various snapchat like face filters and masks.
+This repository contains python implmentation of various snapchat like face filters and masks using opencv and dlib.
+
+Dlib used for finding face and detect landmarks which uses a Histogram of Oriented Gradients (HOG) feature combined with a linear classifier, an image pyramid, and sliding window detection scheme to detect faces. Then it finds the 68 facial landmarks using an Ensemble of Regression Trees to detect the face characteristics and to estimate the tilt angle of the face.
 
 ## Currently following filters are available:
 - face_mask Filter
@@ -38,6 +40,11 @@ This repository contains python implmentation of various snapchat like face filt
 - changes filters \
   click on bifferent filter buttons 
   
+## outputs
+
+
+
+
 # Thank You
 
 
