@@ -41,9 +41,13 @@ Dlib used for finding face and detect landmarks which uses a Histogram of Orient
   click on bifferent filter buttons 
   
 ## outputs
+![1](https://github.com/rjnp2/Applying_filter_in_face/blob/main/icon/gif.gif) \
+fig: System working operates
 
+![1](https://github.com/rjnp2/Applying_filter_in_face/blob/main/icon/filter_.png) \
+fig: filters which can be apply
 
-
+![1](https://github.com/rjnp2/Applying_filter_in_face/blob/main/filter_video.gif)
 
 # Thank You
 
